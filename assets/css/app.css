@@ -5959,7 +5959,7 @@ form.search-form button.search-submit {
 
 .masonry-grid>.grid-item>.content .item-img {
     width: 30vw;
-    height: 30vw;
+    height: 100%;
     transition: all 0.15s ease-in-out;
     background-size: contain;
     background-repeat: no-repeat;
